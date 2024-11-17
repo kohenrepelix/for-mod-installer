@@ -1,5 +1,17 @@
 [
-    { "id": "1", "name": "Modpack A" },
-    { "id": "2", "name": "Modpack B" },
-    { "id": "3", "name": "Modpack C" }
+    {
+        "id": "1",
+        "name": "Modpack A",
+        "download_url": "https://example.com/modpackA.zip"
+    },
+    {
+        "id": "2",
+        "name": "Modpack B",
+        "download_url": "https://example.com/modpackB.zip"
+    },
+    {
+        "id": "3",
+        "name": "Modpack C",
+        "download_url": "https://example.com/modpackC.zip"
+    }
 ]
